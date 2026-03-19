@@ -1,1 +1,9 @@
+public class SumArray {
+    public static void main(String[] args) {
+        int[] numbers = {24, 16};
 
+        int sum = numbers[0] + numbers[1];
+
+        System.out.println("Sum is: " + sum);
+    }
+}
